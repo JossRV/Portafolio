@@ -1,15 +1,17 @@
-body{
+body {
     /* background-color: #20262E; */
-    background-image: url(public/img/codigo01.jpg);
+    background-image: url(../img/codigo01.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     /* imagen estatica */
     background-attachment: fixed;
 }
-.presentacion{
+
+.presentacion {
     background-color: #00000021;
     backdrop-filter: blur(30px);
 }
-.card-lenguaje{
+
+.card-lenguaje {
     background-color: #7353BA;
 }
